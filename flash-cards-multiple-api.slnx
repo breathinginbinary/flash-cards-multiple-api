@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="flash-cards-multiple-api.Tests/flash-cards-multiple-api.Tests.csproj" />
+  <Project Path="flash-cards-multiple-api/flash-cards-multiple-api.csproj" />
+</Solution>
